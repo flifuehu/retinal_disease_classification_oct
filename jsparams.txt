@@ -1,0 +1,20 @@
+{
+    "DATASET":
+    [
+        {
+            "day": ["0"],
+            "eye": ["right"],
+            "pbs": ["-"],
+            "label": ["healthy"]
+        },
+        {
+            "day": ["14"],
+            "eye": ["right"],
+            "pbs": ["-"],
+            "label": ["pathological"]
+        }
+    ],
+    "EXCLUDE_RATS": true,
+    "SEED": 7,
+    "K": 1
+}
